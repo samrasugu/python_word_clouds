@@ -1,0 +1,5 @@
+python
+programming
+machine learning
+linux
+computer science
